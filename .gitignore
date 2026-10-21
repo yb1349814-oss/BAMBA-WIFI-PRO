@@ -1,0 +1,10 @@
+*.db
+*.db-shm
+*.db-wal
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+app.py.avant_*
+*.sauvegarde*
